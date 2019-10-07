@@ -1,1 +1,1 @@
-The class diagram is in uml folder
+The class diagram is in the uml folder
